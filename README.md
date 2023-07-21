@@ -3,6 +3,7 @@
 Cosmos is a flexible and versatile framework inspired by Blender's Geometry Nodes. It provides a node-based system for procedural generation and manipulation of 3D geometry. With Cosmos, developers can create complex procedural workflows to generate, modify, and animate geometry in a visual and intuitive manner. It empowers artists and developers to create dynamic and customizable assets, simulations, and effects with ease.
 
 * This repository is part of [C.A.T.S. - Cutting-edge Adaptive Technology Stack](https://github.com/Warwlock/C.A.T.S).
+* You can follow all nodes progress from there: https://trello.com/b/gNNTgFy0/cosmos
 
 ## ToDo:
 
@@ -15,7 +16,7 @@ Cosmos is a flexible and versatile framework inspired by Blender's Geometry Node
 
 ### Nodes (GO is game object):
 
-- [ ] Input Nodes (bool, float, vector, material, GO, etc.)
+- [X] Input Nodes (bool, float, vector, material, GO, etc.)
 - [ ] Output Nodes (mesh out, material out, transform out)
 - [ ] Join Nodes (join meshes, join strings)
 - [ ] Procedural Textures (noise, voronoi, checker, etc.)
