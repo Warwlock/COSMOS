@@ -7,8 +7,8 @@ Cosmos is a flexible and versatile framework inspired by Blender's Geometry Node
 
 ## ToDo:
 
-- [ ] Exposed Parameters
-- [ ] Custom Inspector
+- [ ] Exposed Parameters `WIP`
+- [ ] Custom Inspector `WIP`
 - [ ] Accept Scene Objects Somehow (Graph is not scene asset)
 - [ ] Add Nodes Similar To Blender Geometry Nodes
 - [ ] Runtime Graph Processing (Completely Procedural Scenes)
@@ -24,7 +24,9 @@ Cosmos is a flexible and versatile framework inspired by Blender's Geometry Node
 - [ ] Material Nodes (Set Material, Set Pass)
 - [ ] Transform Node
 - [ ] Instance Nodes
-- [ ] Math Nodes
+- [X] Math Nodes
+- [X] Boolean Math Nodes
+- [ ] Vector Math Nodes
 - [ ] Debug Nodes
 
 ## Under Consideration:
